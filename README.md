@@ -1,13 +1,21 @@
 # NNet
 Implementation of a Neural Network from Scratch in Python
 
-Model includes:
+## Model includes:
 * Variable input, hidden, output layer node numbers
 * Multiclass training
 * Regularization (L2)
 * Variables learning rate
 * Stochastic mini batch gradient descent
 * Input scaling
+
+## Optimization Updater:
+* Gradient descent
+* Momemtum
+* Nesterov
+* RMSprop
+* Adam
+* Adadelta
 
 The main notebook can be viewed here:
 [Neural Net Notebook](http://nbviewer.ipython.org/github/MarvinBertin/NNet/blob/master/Neural%20Net.ipynb)
